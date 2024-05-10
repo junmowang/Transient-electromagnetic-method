@@ -48,5 +48,4 @@ math
 time
 
 The following is the filter coefficient file required for numerical simulation:
-filter coefficient is the file name of the filter coefficient.
-
+The name of the filtering coefficient is: Filtering coefficient.
